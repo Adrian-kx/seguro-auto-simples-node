@@ -157,5 +157,4 @@ Isso executa automaticamente:
 - singleton.test.js
 ```
 
-Desenvolvido por: **Adrian Xavier**  
-GitHub: **[@Adrian-kx](https://github.com/Adrian-kx)**
+Desenvolvido por: **Adrian Xavier** 

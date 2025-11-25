@@ -1,0 +1,21 @@
+{
+    "name": "seguro-auto",
+    "version": "1.0.0",
+    "description": "Projeto de Seguro Auto com Strategy, Decorator, Observer, Factory Method e Singleton",
+    "main": "app/menu.js",
+    "scripts": {
+      "start": "node app/menu.js",
+      "test": "jest"
+    },
+    "author": "Adrian Xavier",
+    "license": "MIT",
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    },
+    "jest": {
+      "testEnvironment": "node"
+    }
+  }
